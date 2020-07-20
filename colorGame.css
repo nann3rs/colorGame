@@ -17,10 +17,8 @@ body {
 
 h1 {
     color: white;
-}
-
-span {
-    color: white;
+    text-align: center;
+    background: steelblue;
 }
 
 #stripe {
@@ -29,3 +27,7 @@ span {
     text-align: center;
     color: black;
 } 
+
+.selected {
+    background-color: blue;
+}
